@@ -1,0 +1,106 @@
+FINDING LARGEST NUMBER : 
+
+public class LargestNum {
+
+    public static void main(String[] args) {
+
+        double n1 = -4.5, n2 = 3.9, n3 = 2.5;
+
+        if( n1 >= n2 && n1 >= n3)
+            System.out.println(n1 + " is the largest number.");
+
+        else if (n2 >= n1 && n2 >= n3)
+            System.out.println(n2 + " is the largest number.");
+
+        else
+            System.out.println(n3 + " is the largest number.");
+    }
+}
+
+
+
+
+
+Alphabet case check QUESTION : 
+
+public class Demo {
+   public static void main(String []args) {
+      System.out.println("Checking for Uppercase character...");
+      char val = 'K';
+      System.out.println("Character: "+val);
+      if (Character.isUpperCase(val)) {
+         System.out.println("Character is in Uppercase!");
+      }else {
+         System.out.println("Character is in Lowercase!");
+      }
+   }
+}
+
+
+
+
+
+
+
+Fibonacci numbers 
+
+class FibonacciExamp{  
+public static void main(String args[])  
+{    
+ int n1=0,n2=1,n3,i,count=10;    
+ System.out.print(n1+" "+n2);//printing 0 and 1    
+    
+ for(i=2;i<count;++i)//loop starts from 2 because 0 and 1 are already printed    
+ {    
+  n3=n1+n2;    
+  System.out.print(" "+n3);    
+  n1=n2;    
+  n2=n3;    
+ }    
+  
+}} 
+
+
+
+
+
+
+Counting occurrences  EXA
+
+import java.util.Scanner;
+public class Occurrence.
+{
+public static void main(String[] args)
+{
+int n, x, count = 0, i = 0;
+Scanner s = new Scanner(System. in);
+System. out. print("Enter no. of elements you want in array:");
+
+
+
+
+
+
+
+Reverse Code
+
+
+public class ReverseNumExamp   
+{  
+public static void main(String[] args)   
+{  
+int number = 987654, reverse = 0;  
+while(number != 0)   
+{  
+int remainder = number % 10;  
+reverse = reverse * 10 + remainder;  
+number = number/10;  
+}  
+System.out.println("The reverse of the given number is: " + reverse);  
+}  
+}  
+
+
+
+ 
+
