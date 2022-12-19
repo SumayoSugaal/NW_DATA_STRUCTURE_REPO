@@ -17,7 +17,7 @@ This repository consists of the code samples, assignments, and notes for the Jav
     <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>&ensp;
   <a href="https://.com">
-  <img width="30px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
+  
   </a>
 
 
