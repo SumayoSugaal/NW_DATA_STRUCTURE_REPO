@@ -24,5 +24,4 @@ This repository consists of the code samples, assignments, and notes for the Jav
  
  
 ## Thank You ❤️
-  <img src = "https://contrib.rocks/image?repo=kunal-kushwaha/DSA-Bootcamp-Java"/>
-</a>
+
